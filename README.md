@@ -4,7 +4,14 @@
 -->
 ## Project Description
 
-T-prep(Teacher's Preparation)는 초등 및 중등 사회교과 교사들이 역사 수업을 진행하기 위해 LLM을 쉽게 활용해 수업 자료를 생성하기 위한 서비스입니다.
+T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역사 수업을 진행하기 위해 LLM을 쉽게 활용해 수업 자료를 생성하기 위한 서비스입니다.
+
+### 문제 발견
+
+
+### 문제 정의 및 솔루션
+
+
 
 ## Data
 
@@ -16,3 +23,8 @@ T-prep(Teacher's Preparation)는 초등 및 중등 사회교과 교사들이 역
 
 
 ## Reference
+[1]
+
+[2]
+
+[3]
