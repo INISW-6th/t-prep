@@ -25,8 +25,6 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 
 
 ## Reference
-[1]
-
-[2]
-
-[3]
+- [1]
+- [2]
+- [3]
