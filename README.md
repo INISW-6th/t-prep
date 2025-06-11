@@ -29,7 +29,7 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
 
 ## 설치 가이드
-### 환경설정
+### 라이브러리 버전
 - `python 3.11.13`
 - `langchain 0.3.25`
 - `langchain-community 0.3.25`
