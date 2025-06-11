@@ -28,9 +28,20 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
 
 ## 설치 가이드
-## 0. Google Colab 
+### 환경설정
+- `python 3.11.13`
+- `langchain 0.3.25`
+- `langchain-community 0.3.25`
+- `langchain-huggingface 0.3.0`
+- `sentence-transformers 4.1.0`
+- `transformers 4.52.4`
+- `chromadb 1.0.12`
+- `faiss 1.11.0`
 
-## 1. 
+### Google Colab 
+
+
+### 1. 
 
 
 
