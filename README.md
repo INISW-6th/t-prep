@@ -23,6 +23,7 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 
 
 ## 데이터
+데이터 수집 및 전처리 과정은 [다음](https://github.com/INISW-6th/data-preprocessing)을 참고하세요.
 1. 미래엔 중학교 2학년 역사 교과서(교사용)
 2. 미래엔 중학교 2학년 역사 지도서
 3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
