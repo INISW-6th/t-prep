@@ -27,6 +27,12 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 2. 미래엔 중학교 2학년 역사 지도서
 3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
 
+## LangChain 구성
+LangChain 구성 및 최적화 과정은 [다음]()을 참고하세요.
+1. 메타데이터 기반의 데이터를 활용하는 Modular RAG 구성
+2. 각 단계에 Prompt Engineering과 Modular RAG 내 Embedding/VectorDB/Reranker/LLM 평가
+3. 각 단계에 최적화된 Prompt와 모델 설정
+
 ## 설치 가이드
 ### 라이브러리 버전
 - `python 3.11.13`
@@ -37,23 +43,10 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 - `transformers 4.52.4`
 - `chromadb 1.0.12`
 - `faiss 1.11.0`
-
-## 데이터
-데이터 수집 및 전처리 과정은 [다음](https://github.com/INISW-6th/data-preprocessing)을 참고하세요.
-1. 미래엔 중학교 2학년 역사 교과서(교사용)
-2. 미래엔 중학교 2학년 역사 지도서
-3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
-
-## LangChain 구성
-LangChain 구성 및 최적화 과정은 [다음]()을 참고하세요.
-1. 메타데이터 기반의 데이터를 활용하는 Modular RAG 구성
-2. 각 단계에 Prompt Engineering과 Modular RAG 내 Embedding/VectorDB/Reranker/LLM 평가
-3. 각 단계에 최적화된 Prompt와 모델 설정
-
-### Google Colab 
+  
+### Google Colab
 
 ### 1. 
-
 
 ## 참고문헌
 - [1] 한정윤(2024), AI 기반 맞춤형 교육에 대한 교사의 인식과 경험, 한국교육개발원.
