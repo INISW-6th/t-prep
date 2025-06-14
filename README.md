@@ -28,7 +28,7 @@ T-prep(Teacher's Preparation)은 초등 및 중등 사회교과 교사들이 역
 3. 한국학중앙연구회 한국민족문화대백과사전([링크](https://encykorea.aks.ac.kr/))
 
 ## LangChain 구성
-LangChain 구성 및 최적화 과정은 [다음]()을 참고하세요.
+[LangChain 구성 및 최적화](https://github.com/INISW-6th/langchain/eval)을 참고하세요.
 1. 메타데이터 기반의 데이터를 활용하는 Modular RAG 구성
 2. 각 단계에 Prompt Engineering과 Modular RAG 내 Embedding/VectorDB/Reranker/LLM 평가
 3. 각 단계에 최적화된 Prompt와 모델 설정
